@@ -1,5 +1,7 @@
 ## Description
 
+<img width="1266" height="690" alt="image" src="https://github.com/user-attachments/assets/337abf08-1ec6-4579-8c66-d88c801bc317" />
+
 'Risk Realm' is a strategy-based simulation game where teams compete to maximize the value of a shared asset portfolio over a five-year period by making smart risk-protection decisions under uncertainty.
 
 The player begins with an insurance budget equal to 5% of the total asset value. Using this limited premium, they must decide how to allocate risk protection across a diverse set of assets located in different geographies and exposed to multiple natural catastrophe risks.
