@@ -14,13 +14,13 @@ If an asset is impacted by an event without coverage, it is permanently lost and
 
 The player must revisit their insurance strategy every year, taking into account:
 
-Asset depreciation
+-> Asset depreciation
 
-Changing asset values
+-> Changing asset values
 
-Evolving risk exposure
+-> Evolving risk exposure
 
-Limited and fixed premium budgets
+-> Limited and fixed premium budgets
 
 The objective is to maximize the cumulative Net Asset Value over five years.
 The player with the highest total asset value at the end of the final year wins.
